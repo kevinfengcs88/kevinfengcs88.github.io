@@ -1,4 +1,4 @@
-*For initial setup and documentation on utilizing the original template, follow the instructions found at this [repository](https://github.com/LekoArts/gatsby-starter-portfolio-cara).*
+*For initial setup and documentation on utilizing the original template, follow the instructions found at this [repository](https://github.com/LekoArts/gatsby-starter-portfolio-cara). Additionally, [this documentation from Gatsby](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/#deploying-to-a-github-pages-subdomain-at-githubio) may prove to be very useful.*
 
 # Deploying Gatsby Site to GitHub Pages
 1. Add the following line to "scripts" in your package.json file:
