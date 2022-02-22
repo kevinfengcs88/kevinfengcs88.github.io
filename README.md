@@ -11,3 +11,5 @@
 npm run deploy
 ```
 4. Optionally, store your source code in a separate branch or repository.
+
+Credits for the [template](https://github.com/LekoArts/gatsby-starter-portfolio-cara) go to [LekoArts](https://github.com/LekoArts).
