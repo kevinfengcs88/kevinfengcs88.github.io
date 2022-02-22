@@ -1,3 +1,5 @@
+*Credits for the [template](https://github.com/LekoArts/gatsby-starter-portfolio-cara) go to [LekoArts](https://github.com/LekoArts).*
+
 *For initial setup and documentation on utilizing the original template, follow the instructions found at this [repository](https://github.com/LekoArts/gatsby-starter-portfolio-cara). Additionally, [this documentation from Gatsby](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/#deploying-to-a-github-pages-subdomain-at-githubio) may prove to be very useful.*
 
 # Deploying Gatsby Site to GitHub Pages
@@ -11,5 +13,3 @@
 npm run deploy
 ```
 4. Optionally, store your source code in a separate branch or repository.
-
-Credits for the [template](https://github.com/LekoArts/gatsby-starter-portfolio-cara) go to [LekoArts](https://github.com/LekoArts).
