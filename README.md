@@ -5,7 +5,7 @@
 ```
 "deploy": "gatsby build && gh-pages -d public -b main",
 ```
-2. Change your default branch (which should be titled `username/username.github.io`) something else apart from `main`.
+2. Change your default branch (which should be titled `username/username.github.io`) to something else apart from `main`.
 3. Use the `main` branch for deployment by running
 ```
 npm run deploy
