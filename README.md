@@ -13,3 +13,10 @@
 npm run deploy
 ```
 4. Optionally, store your source code in a separate branch or repository.
+
+# Viewing Gatsby Site locally
+To view the site locally, simply use
+```
+npm start
+```
+It will be accessible at http://localhost:8000/
