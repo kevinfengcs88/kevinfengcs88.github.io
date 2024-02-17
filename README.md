@@ -12,7 +12,10 @@
 ```
 npm run deploy
 ```
-4. Optionally, store your source code in a separate branch or repository.
+4. Optionally, store your source code in a separate branch or repository:
+```
+git push origin source
+```
 
 # Viewing Gatsby Site locally
 To view the site locally, simply use
